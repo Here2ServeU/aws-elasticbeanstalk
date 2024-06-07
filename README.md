@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Using Amazon Elastic Beanstalk Using the AWS CLI
+# Step-by-Step Guide to Using Amazon Elastic Beanstalk On CLI
 
 ## Step 1: Set Up Your AWS Account
   -> Sign Up: If you don't have an AWS account, sign up at aws.amazon.com.
