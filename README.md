@@ -16,7 +16,7 @@
 
 ### Initialize the Application: 
 
-eb init
+  -> eb init
 
 
 
@@ -24,12 +24,12 @@ eb init
 
 ### Create an Environment: 
 
-eb create <environment-name>
+  -> eb create <environment-name>
 
 
 ### Deploy Your Application: 
 
-eb deploy
+  -> eb deploy
 
 
 
@@ -37,24 +37,24 @@ eb deploy
 
 ### List Environments: 
 
-eb list
+  -> eb list
 
 
 ### Open Environments: 
 
-eb open
+  -> eb open
 
 
 ### Terminate Environments: 
 
-eb terminate <environment-name>
+  -> eb terminate <environment-name>
 
 
 # If deployment fails, SSH into the instance for troubleshooting
-eb ssh
+  -> eb ssh
 
 # Check logs for errors
-sudo cat /var/log/eb-engine.log
-sudo cat /var/log/eb-activity.log
-sudo cat /var/log/web.stdout.log
-sudo cat /var/log/web.stderr.log
+  -> sudo cat /var/log/eb-engine.log
+  -> sudo cat /var/log/eb-activity.log
+  -> sudo cat /var/log/web.stdout.log
+  -> sudo cat /var/log/web.stderr.log
