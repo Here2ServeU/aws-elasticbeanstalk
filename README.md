@@ -2,11 +2,13 @@
 
 ## Step 1: Set Up Your AWS Account
   -> Sign Up: If you don't have an AWS account, sign up at aws.amazon.com.
+  
   -> IAM Users and Roles: Create IAM users and roles with appropriate permissions to use Elastic Beanstalk.
 
 
 ## Step 2: Install the AWS CLI and EB CLI
   -> AWS CLI: Install the AWS CLI.
+  
   -> EB CLI: Install the EB CLI.
 
 
