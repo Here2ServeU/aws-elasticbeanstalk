@@ -117,8 +117,11 @@ eb ssh
 
 # Check logs for errors
 sudo cat /var/log/eb-engine.log
+
 sudo cat /var/log/eb-activity.log
+
 sudo cat /var/log/web.stdout.log
+
 sudo cat /var/log/web.stderr.log
 
 
