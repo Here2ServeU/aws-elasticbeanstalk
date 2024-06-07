@@ -1,5 +1,5 @@
 {
-    "name": "t2s-app",  # Replace with the desired name
+    "name": "t2s-app",  //Replace with the desired name
     "version": "1.0.0",
     "main": "app.js",
     "scripts": {
