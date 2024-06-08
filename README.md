@@ -14,40 +14,46 @@
 
 ## Step 3: Create an Elastic Beanstalk Application
 
+### Create the required working directory: 
+
+  -> mkdir eb-nodejs
+
+  -> cd eb-nodejs
+
 ### Initialize the Application: 
 
-eb init
+  -> eb init
 
 
 ## Step 3: Create and Deploy an Environment
 
 ### Create an Environment: 
 
-eb create <environment-name>
+  -> eb create <environment-name>
 
 
 ### Deploy Your Application: 
 
-eb deploy
+  -> eb deploy
 
 
 ## Managing Environments
 
 ### List Environments: 
 
-eb list
+  -> eb list
 
 
 ### Open Environments: 
 
-eb open
+  -> eb open
 
 
 ### Terminate Environments: 
 
-eb terminate <environment-name>
+  -> eb terminate <environment-name>
 
-
+---------------------------
 ## Working with Node.js Applications
 
 #### Step 1: Create a project directory
